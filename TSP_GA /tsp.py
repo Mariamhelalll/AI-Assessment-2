@@ -9,8 +9,8 @@
 # Last Modified: 18/08/25
 """
 
-# from world import World
-# from baselineGA  import *
+from world import World
+from baselineGA  import *
 # from environment import Environment
 
 import time
